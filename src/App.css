@@ -1,0 +1,16 @@
+.navt{
+  background-color: rgb(203, 220, 241);
+  
+}
+.head{
+  background-image:url(imgSrc/HeadeImg.jpg);
+  background-size: cover;
+  height: 320px;
+}
+
+.foot{
+  background-color: rgb(35, 33, 33);
+  color: aliceblue;
+
+}
+
