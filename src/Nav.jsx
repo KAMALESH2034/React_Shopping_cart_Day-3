@@ -1,12 +1,13 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBagShopping,faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
+
 const Nav = ({cart,setCart}) => {
     return <div className="">
     <nav class=" navt navbar navbar-expand-lg fixed-top navbar-inverse">
+    
     <div className='container col-lg-10'>
-      <img src="imgSrc/PageIcon.png" width="80" height="50"></img>
-    <a class="navbar-brand px-3" style={{fontFamily:"sans-serif", fontSize:"28px"}} href="#">Shopping Cart  <span style={{color:"green"}}> <FontAwesomeIcon icon={faBagShopping}/></span></a>
+         <a class="navbar-brand px-3" style={{fontFamily:"sans-serif", fontSize:"28px"}} href="#">Shopping Cart  <span style={{color:"green"}}> <FontAwesomeIcon icon={faBagShopping}/></span></a>
        <div class="collapse navbar-collapse">
            <ul class="navbar-nav mr-auto">
              <li class="nav-item active">
