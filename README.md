@@ -28,4 +28,4 @@ Requirements:
 
 ## Deployment Link:
 
-* **Netlify Deployment Link :**
+* **Netlify Deployment Link : [https://amazecartin.netlify.app/](https://amazecartin.netlify.app/)**
